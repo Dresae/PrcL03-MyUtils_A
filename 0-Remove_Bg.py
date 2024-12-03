@@ -1,3 +1,10 @@
+"""
+Title: Remove Background
+Description: This script removes the white background from an image.
+Contributor: Dresae
+"""
+
+
 from PIL import Image
 # built-in package sys
 import sys
