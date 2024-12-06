@@ -14,7 +14,7 @@ output_path = easygui.filesavebox(title='Save GIF to...')
 videoclip = VideoFileClip(input_path)
 
 # Trim the video 
-videoclip = videoclip.subclip(4, 12)
+trimmed_vid = videoclip.subclip(4, 12)
 
 # Write the GIF
-videoclip.write_gif(output_path)
+trimmed_vid.write_gif(output_path)
