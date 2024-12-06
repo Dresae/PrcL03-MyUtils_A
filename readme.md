@@ -3,14 +3,14 @@
 ## :scroll: Overview 
 Practical python scripts for day to day simple tasks
 
-0- Remove_BG
-    ***Remove the background of any picture***
+### 0-Remove_BG
+**Remove the background of any picture**
 
-1- Vid_to_Gif
-    ***Convert a video file to a gif***
+### 1-Vid_to_Gif
+***Convert a video file to a gif***
 
-2- Pic_to_Pdf
-    ***Convert png, jpg, etc. files to pdf format
+### 2-Pic_to_Pdf
+***Convert png, jpg, etc. files to pdf format
 
 ### Note:
 ***To convert python files into executabale run:***
