@@ -18,3 +18,8 @@ Convert png, jpg, etc. files to pdf format
 ```python
     pyinstaller python_file.py --onefile # argument to keep everything in a single executable
 ```
+
+***
+***
+
+![screenshot](misc/slowking.gif "...Then teach and guide yourself")
